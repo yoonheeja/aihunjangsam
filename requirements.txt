@@ -1,0 +1,31 @@
+streamlit
+Pillow
+aisam_utils
+langchain_community
+langchain_core
+langchain_openai
+openai
+whisper
+sounddevice
+wavio
+
+python -m venv venv
+source venv/bin/activate  # Windows에서는 `venv\Scripts\activate` 사용
+pip install -r requirements.txt
+
+try:
+    import streamlit as st
+    from PIL import Image
+    # 필요한 다른 모듈들 import
+    import whisper
+    import sounddevice as sd
+    import wavio
+    import random
+    import os
+    # 기타 import...
+
+except ModuleNotFoundError as e:
+    st.error(f"오류: {e}")
+    st.write("환경 설정을 확인하고 모든 종속성이 올바르게 설치되었는지 확인해 주세요.")
+    st.stop()
+
