@@ -4,6 +4,6 @@ langchain_community
 langchain_core
 langchain_openai
 openai
-whisper
+openai-whisper
 sounddevice
 wavio
