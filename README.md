@@ -11,9 +11,6 @@
    → 자기성찰을 통한 치유가 필요하며, 치유방법으로써 논어 등의 경전을 자기주도 학습할 수 있는 서비스 제공
    → 고전은 인류의 보편적 가치에 대한 질문과 통찰력 있는 생각거리를 제공해 줌으로 자기성찰의 단초를 제공하기 때문이다.
 
-<img width="281" alt="image" src="https://github.com/yoonheeja/aihunjangsam/assets/171656822/f3deb881-2e7f-45a9-96e3-583905b8778c">
-
-
 ## 서비스 개발 시 활용된 기술
   1. 웹구현 : Streamlit
   2. LangChain :
@@ -31,4 +28,8 @@
   2. 학습자의 학습 동기부여로써 학습수준을 파악하여 학습자 눈높이에 맞는 학습 진행
 
 ## 구현할 서비스
-  1. 학습자 수준평가: 학습자가 경전텍스트를 잘 이해하고 있는지 질문을 통해 평
+  <img width="365" alt="image" src="https://github.com/yoonheeja/aihunjangsam/assets/171656822/56a4be25-df8d-48d3-82f8-50ee5e5d2ad3">
+
+## 프로토타입
+<img width="494" alt="image" src="https://github.com/yoonheeja/aihunjangsam/assets/171656822/8d4ea714-d25d-459c-9dd6-a9e524d68cc6">
+
