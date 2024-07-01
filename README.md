@@ -1,5 +1,6 @@
 ## 프로젝트명
   고전 자기주도학습 'ai훈장샘' 서비스 개발 
+  
 <img width="419" alt="image" src="https://github.com/yoonheeja/aihunjangsam/assets/171656822/043244af-a8a8-48cc-83dd-c71df9a70f29">
 
   
