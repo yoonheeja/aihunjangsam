@@ -13,10 +13,11 @@
 
 ## 서비스 개발 시 활용된 기술
   1. 웹구현 : Streamlit
-  2. LangChain :
+  2. 프로그래밍 언어: Python
+  3. LangChain :
      - chatGPT의 히스토리 저장 기능
      - Prompt 설정: 경전에 특화한 답변유도 
-  3. 음성언어모델: openAI의 whisper 라이브러리
+  4. 음성언어모델: openAI의 whisper 라이브러리
 
 ## 추가 기술 적용 방안
   1. RAG
