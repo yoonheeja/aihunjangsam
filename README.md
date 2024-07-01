@@ -11,6 +11,9 @@
    → 자기성찰을 통한 치유가 필요하며, 치유방법으로써 논어 등의 경전을 자기주도 학습할 수 있는 서비스 제공
    → 고전은 인류의 보편적 가치에 대한 질문과 통찰력 있는 생각거리를 제공해 줌으로 자기성찰의 단초를 제공하기 때문이다.
 
+<img width="281" alt="image" src="https://github.com/yoonheeja/aihunjangsam/assets/171656822/f3deb881-2e7f-45a9-96e3-583905b8778c">
+
+
 ## 서비스 개발 시 활용된 기술
   1. 웹구현 : Streamlit
   2. LangChain :
